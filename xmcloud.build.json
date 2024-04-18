@@ -34,22 +34,6 @@
               "sitecore_core_index",
               "sitecore_master_index"
             ]
-          },
-          "reindex": {
-            "indexNames": [
-              "sitecore_core_index",
-              "sitecore_master_index"
-            ]
-          },
-          "publish": {
-            "path": "/sitecore",
-            "languages": [
-              "en",
-              "fr-CA"
-            ],
-            "itemIds": [],
-            "targets": ["Edge"],
-            "republish": false
           }
         }
     }
